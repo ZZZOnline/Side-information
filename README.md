@@ -1,1 +1,1 @@
-code environment configurations can be set from env.ymal
+code environment configurations can be set from env.yml
